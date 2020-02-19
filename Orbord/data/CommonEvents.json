@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":231,"indent":0,"parameters":[1,"orbord1",0,0,0,0,41,42,255,0]},{"code":135,"indent":0,"parameters":[0]},{"code":112,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[11,"cancel"]},{"code":235,"indent":2,"parameters":[1]},{"code":230,"indent":2,"parameters":[2]},{"code":113,"indent":2,"parameters":[]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":413,"indent":0,"parameters":[]},{"code":135,"indent":0,"parameters":[1]},{"code":0,"indent":0,"parameters":[]}],"name":"afficher la carte","switchId":1,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
